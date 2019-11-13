@@ -1,3 +1,7 @@
+LEIA Stack : ![LEIA Stack build status](https://codebuild.eu-west-3.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoidGxrNUpqR2RHMXRLUE1HMWNkLzg0aVBRTjQrd2xKR1RzWTdwOTBXVzJtMDJQRDcvZ3lVcjA5WFlZZy9Yenh6a0tKdWdDR3hJNEUzaWo4QTNnZ0hLc2UwPSIsIml2UGFyYW1ldGVyU3BlYyI6IjV1VE9wSWI3bFN2ZVhsTnYiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+LEIA Web Service : ![LEIA Web Service build status](https://codebuild.eu-west-3.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiV21XL1BUV0wxY0RxSHY4a2dNNDRnOUIrVlRKT3htMTVzcXFsUWEyclhGVGdwT21zS3lDZTJNaWlGNDRNSVBzSTNoMTRnYWlOWm5CUm9KMDVzL0tPTFNFPSIsIml2UGFyYW1ldGVyU3BlYyI6IjJLVWRkYWFSTmhUdUxtNkkiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 # LeiaWS-Issues
+
 Report issues with Leia WS in this project
 https://github.com/labinnovationdocapost/LeiaWS-Issues/issues
